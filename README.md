@@ -1,28 +1,28 @@
 # Hi there, I'm Pablo! 👋
 
-🌍 Passionate about climate<br>
-🏳️‍🌈 Fuck anti-LGBTQ<br>
-🚫 Fuck rasists<br>
-🧸 Respect animals - not just pets<br>
-📍 Based in Germany<br>
+🌍 passionate about climate<br>
+🏳️‍🌈 fuck anti-LGBTQ<br>
+🚫 fuck rasists<br>
+🧸 respect animals - not just pets<br>
+📍 based in Germany<br>
 
-### langauges I like
+### Langauges I like
 - Kotlin
 - JavaScript
 - Python
 - PHP
 
-### open source projects I support
+### Open source projects I support
 - [Mastodon](https://joinmastodon.org/): decentralized social network
 - [Signal](https://signal.org/): secure & private messaging
 - [Organic Maps](https://organicmaps.app/): open-source navigation.
 
-### achievements
+### Achievements
 - create websites and API's using the php framework Laravel
 - release an [android app](https://codeberg.org/pabloscloud/Overload) to track time
 
-### connect with me
-Feel free to [contact or follow me](https://pablos.cloud)
-
-### fun fact
+### Fun fact
 "I'm not crazy, my mother had me tested" 🧠🔬
+
+### More
+Feel free to [contact or follow me](https://pablos.cloud)
