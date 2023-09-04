@@ -1,10 +1,10 @@
 # Hi there, I'm Pablo! 👋
 
-🌍 Passionate about climate
-🏳️‍🌈 Fuck anti-LGBTQ
-🚫 Fuck rasists
-🧸 Respect animals - not just pets
-📍 Based in Germany
+🌍 Passionate about climate<br>
+🏳️‍🌈 Fuck anti-LGBTQ<br>
+🚫 Fuck rasists<br>
+🧸 Respect animals - not just pets<br>
+📍 Based in Germany<br>
 
 ### Technologies I Love
 - Kotlin
