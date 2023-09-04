@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there, I'm Pablo! 👋
 
-<!--
-**pabloscloud/pabloscloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Passionate about climate
+🏳️‍🌈 Fuck anti-LGBTQ
+🚫 Fuck rasists
+🧸 Respect animals - not just pets
+📍 Based in Germany
 
-Here are some ideas to get you started:
+### Technologies I Love
+- Kotlin
+- JavaScript
+- Python
+- PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Open Source Projects I Support
+- [Mastodon](https://joinmastodon.org/): decentralized social network
+- [Signal](https://signal.org/): secure & private messaging
+- [Organic Maps](https://organicmaps.app/): open-source navigation.
+
+### Achievements
+- create websites and API's using the php framework Laravel
+- release an [android app](https://codeberg.org/pabloscloud/Overload) to track time
+
+### Connect with Me
+Feel free to [contact or follow me](https://pablos.cloud)
+
+### Fun Fact
+"I'm not crazy, my mother had me tested" 🧠🔬
