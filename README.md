@@ -6,7 +6,7 @@
 🧸 respect animals - not just pets<br>
 📍 based in Germany<br>
 
-### Langauges I like
+### Languages I like
 - Kotlin
 - JavaScript
 - Python
